@@ -1,0 +1,1 @@
+Location secondLocation = firstLocation.clone();
